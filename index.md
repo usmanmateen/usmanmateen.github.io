@@ -23,5 +23,5 @@ Welcome to my portfolio! I'm passionate about coding and love to work on excitin
 
 Feel free to reach out to me on LinkedIn:
 
-- [LinkedIn][https://www.linkedin.com/in/muhammad-usman-mateen-1a8797199/]
+- [LinkedIn](https://www.linkedin.com/in/muhammad-usman-mateen-1a8797199/)
 
