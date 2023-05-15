@@ -1,4 +1,4 @@
-# Hello, I'm Your Name
+# Hello, I'm Muhammad Usman Mateen
 
 Welcome to my portfolio! I'm passionate about coding and love to work on exciting projects. Below you'll find some of my work and experiences.
 
@@ -23,5 +23,5 @@ Welcome to my portfolio! I'm passionate about coding and love to work on excitin
 
 Feel free to reach out to me on LinkedIn:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+- [LinkedIn][(https://www.linkedin.com/in/muhammad-usman-mateen-1a8797199/)]
 
