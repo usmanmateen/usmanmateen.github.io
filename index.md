@@ -28,9 +28,9 @@ Packhem was an e-commerce project. I helped them design an e-commerce website wi
 
 Here are some screenshots from the project:
 
-![Packhem Homepage](https://github.com/usmanmateen/usmanmateen.github.io/blob/2c8bd1e120dcb7fb578635e524df6a0a44ac6db9/1670718622464.jpeg)
-![Packhem Product Page](https://github.com/usmanmateen/usmanmateen.github.io/blob/e05b83c5d4f8c5c5b7976e3c84286918d97f0247/1670718659379.jpeg)
 ![Packhem Homepage](1670718622464.jpeg)
+![Packhem Product Page](1670718659379.jpeg)
+
 
 **Skills:** Communication · Problem Solving · E-Commerce · Online Advertising · Programming Languages · Graphic Design
 
