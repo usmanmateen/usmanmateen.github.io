@@ -1,4 +1,6 @@
 # Hello, I'm Muhammad Usman Mateen
+![Profile Picture](https://github.com/your-username/repository-name/path-to-image.jpg)
+
 
 Welcome to my portfolio! I'm passionate about coding and love to work on exciting projects. Below you'll find some of my work and experiences.
 
