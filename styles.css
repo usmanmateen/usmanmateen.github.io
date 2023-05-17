@@ -1,36 +1,41 @@
-/* Global Styles */
-body {
-    font-family: Arial, sans-serif;
+/* Reset default browser styles */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px;
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f1f1f1;
+    color: #333;
 }
 
-/* Header Styles */
+/* Header styles */
 header {
     background-color: #333;
-    color: #fff;
     padding: 20px;
+    color: #fff;
+    text-align: center;
 }
 
 header h1 {
+    font-size: 24px;
     margin: 0;
+    animation: fade-in 1s ease-in-out;
 }
 
 nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    list-style-type: none;
+    margin: 10px 0;
 }
 
 nav ul li {
     display: inline;
     margin-right: 10px;
+    animation: slide-in 1s ease-in-out;
 }
 
 nav ul li a {
@@ -38,29 +43,75 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Section Styles */
+/* Section styles */
 section {
-    margin-bottom: 40px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    animation: fade-in 1s ease-in-out;
 }
 
 section h2 {
-    margin-top: 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+    animation: slide-up 1s ease-in-out;
 }
 
 section ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    list-style-type: none;
+    margin: 10px 0;
+    animation: fade-in 1s ease-in-out;
 }
 
 section ul li {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
-/* Footer Styles */
+section img {
+    max-width: 100%;
+    margin-bottom: 10px;
+    animation: slide-up 1s ease-in-out;
+}
+
+/* Footer styles */
 footer {
     background-color: #333;
+    padding: 10px;
     color: #fff;
-    padding: 20px;
     text-align: center;
+    font-size: 12px;
+    animation: fade-in 1s ease-in-out;
+}
+
+/* Animations */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slide-up {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slide-in {
+    from {
+        transform: translateX(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
 }
